@@ -16,7 +16,7 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),passion_row)
+ifeq ($(TARGET_DEVICE),p1a42)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := shutdownlistener
